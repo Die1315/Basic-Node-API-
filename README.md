@@ -138,8 +138,8 @@ Por ultimo revisamos los contenedor que se estan ejecutando con los mismos coman
 
 ### Borrar datos filtrando el host:
 
-    Para borrar se debe enviar una solicitud http delete a la url localhost:8080/delete con el parametro del host a eliminar:
+Para borrar se debe enviar una solicitud http delete a la url localhost:8080/delete con el parametro del host a eliminar:
 
-    ![Delete](.img/../img/delete.png)
+![Delete](./img/delete.png)
 
-    Si se elimina algun dato se enviara una respuesta 200 ok de lo ocntrario un 204 No content.
+Si se elimina algun dato se enviara una respuesta 200 ok de lo ocntrario un 204 No content.
