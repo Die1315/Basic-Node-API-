@@ -1,0 +1,10 @@
+_id,date,host,location,message,offset,scope
+62af5866d56c9885f4a86a89,2022-06-20T10:09:56.889Z,DESKTOP2-19G7QQ2,Europe/Berlin,Probando put,UTC+2,server_mongodb.js
+62af5aa388e6ba728e36b4b5,2022-06-19T17:19:02.887Z,DESKTOP-19G75QQ2,Europe/Berlin,Hello World! with Cowsay,UTC+2,server_mongodb.js
+62b04922e76cdfb051cc95a6,2022-06-20T10:16:58.519Z,DESKTOP-19G7QQ2,Europe/Berlin,Hello World! with Cowsay,UTC+2,server_mongodb.js
+62b049c097414f9b246f03ed,2022-06-20T10:19:38.439Z,DESKTOP-19G7QQ2,Europe/Berlin,Hello World! with Cowsay,UTC+2,server_mongodb.js
+62b04a1885aa1cc01ef39546,2022-06-20T10:21:09.839Z,DESKTOP2022-19G7QQ2,Europe/Berlin,Hello World! with Cowsay,UTC+2,server_mongodb.js
+62b04a3635c6c6c055f9e7a8,2022-06-20T10:21:32.370Z,DESKTOP-19G7QQ2,Europe/Berlin,probando crear nuevos,UTC+2,server_mongodb.js
+62b04a4dedb82d3ba5b94cdf,2022-06-20T10:22:02.657Z,DESKTOP-19G7QQ2,Europe/Berlin,probando crear nuevos,UTC+2,server_mongodb.js
+62b04a8e5e1f19e7fbad37ee,2022-06-20T10:23:07.946Z,DESKTOP-190G7QQ2,Europe/Berlin,probando crear nuevos,UTC+2,server_mongodb.js
+62b06df236561be121160c17,2022-06-20T12:54:07.386Z,DESKTOP2-19G7QQ88,Europe/Berlin,probando crear nuevos,UTC+2,server_mongodb.js
